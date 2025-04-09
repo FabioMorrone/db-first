@@ -15,7 +15,8 @@
 - porte: TINYINT – NULL  
 - cilindrata: SMALLINT – NULL  
 - cavalli: SMALLINT – NULL  
-- descrizione: VARCHAR(255) – NULL  
+- descrizione: TEXT(500) – NULL  
+- immagine : VARCHAR(255) - NULL
  
 
 
