@@ -6,7 +6,7 @@
 ## colonne :
 
 
-- id: BIGINT – chiave primaria – auto_increment – NOT NULL  
+- id: BIGINT – chiave primaria – auto_incremento – NOT NULL  
 - modello: VARCHAR(100) – NOT NULL  
 - anno: YEAR() – NOT NULL  
 - prezzo: DECIMAL(10) – NOT NULL  
@@ -15,7 +15,7 @@
 - porte: TINYINT – NULL  
 - cilindrata: SMALLINT – NULL  
 - cavalli: SMALLINT – NULL  
-- immagine_copertina: VARCHAR(255) – NULL  
+- descrizione: VARCHAR(255) – NULL  
  
 
 
